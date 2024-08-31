@@ -278,6 +278,7 @@ div>img{
   color:#9699ae;
   font-family: 'Sigmar', cursive;
   width: max-content;
+  transform: translateY(0px);
 }
 .about-sec{
   width:80%;
@@ -371,15 +372,15 @@ div>img{
     transform: translateY(80%);
   }
   20% {
-    opacity: 0;
+    opacity: 0.3;
   }
   50% {
-    opacity: 1;
-    transform: translateY(0%);
+    opacity: 0.6;
+    /* transform: translateY(0%); */
   }
   100% {
     opacity: 1;
-    transform: translateY(0%);
+    /* transform: translateY(0%); */
   }
 }
 
