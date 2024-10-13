@@ -1,4 +1,4 @@
-
+import {WorkHoursRegister} from "/WorkHoursRegister";
 $(document).ready(function( ){
     $('.toggle-collapse').click(function(){
     $('.navbar-ul').toggleClass("collapse");
@@ -24,3 +24,5 @@ function handleScroll() {
 }
 
 window.addEventListener("scroll", handleScroll);
+
+
