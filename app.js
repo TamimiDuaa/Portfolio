@@ -1,4 +1,3 @@
-import {WorkHoursRegister} from "/WorkHoursRegister";
 $(document).ready(function( ){
     $('.toggle-collapse').click(function(){
     $('.navbar-ul').toggleClass("collapse");
@@ -6,7 +5,7 @@ $(document).ready(function( ){
     })
 })
 function install(){
-    window.open("https://drive.google.com/file/d/1bnyahTK3PeX25pSh-2LLwEh6JGOjylPh/view?usp=sharing");
+    window.open("https://drive.google.com/file/d/19TKQoVO7ejIpnW-O0FL3Qq4js4U-1x_J/view?usp=sharing");
 }
 const scrollAnimations = document.querySelectorAll(".sk");
 
