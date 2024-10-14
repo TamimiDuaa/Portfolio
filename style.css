@@ -200,7 +200,7 @@ div>img{
 }
 
 .square:nth-child(1){
-  background-color: #3b5164;
+  background-color: #7cc2ff;
   
   border-color: #f0e6ef;
 }
@@ -399,7 +399,7 @@ div>img{
   margin-top: 2rem;
   display: flex;
   flex-direction: row;
-  width:75%;
+  width:80%;
   height: 100%;
 }
 #data-list {
@@ -412,10 +412,10 @@ div>img{
 }
 
 #data-list li {
-  width:90%;
-  height: 60vh;
+  width:95%;
+  height: 65vh;
   padding: 10px;
- margin:10px;
+ margin-bottom: 10px;
   
   background-color: #fbfae8;
   flex-direction: row;
@@ -427,7 +427,8 @@ div>img{
 
 .project-card{
   height: 100%;
-  width:95%;
+  width:100%;
+  padding: 5px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
